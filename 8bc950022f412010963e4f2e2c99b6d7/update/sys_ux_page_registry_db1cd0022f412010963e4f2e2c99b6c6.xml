@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>531cd0022f412010963e4f2e2c99b6c5</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/needit_spoke</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 03:34:14</sys_created_on>
+        <sys_id>db1cd0022f412010963e4f2e2c99b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Spoke</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_555935_needit_sp">8bc950022f412010963e4f2e2c99b6d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">8bc950022f412010963e4f2e2c99b6d7</sys_scope>
+        <sys_update_name>sys_ux_page_registry_db1cd0022f412010963e4f2e2c99b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 03:34:14</sys_updated_on>
+        <title>NeedIt Spoke</title>
+    </sys_ux_page_registry>
+</record_update>

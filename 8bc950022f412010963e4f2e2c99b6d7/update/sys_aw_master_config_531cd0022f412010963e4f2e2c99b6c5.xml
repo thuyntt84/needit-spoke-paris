@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="NeedIt Spoke">db1cd0022f412010963e4f2e2c99b6c6</compiled_page_registry>
+        <description>Test for flowdesigner</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="NeedIt Spoke Search Context Config">d31cd0022f412010963e4f2e2c99b6c3</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>NeedIt Spoke</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 03:34:14</sys_created_on>
+        <sys_id>531cd0022f412010963e4f2e2c99b6c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Spoke</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_555935_needit_sp">8bc950022f412010963e4f2e2c99b6d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">8bc950022f412010963e4f2e2c99b6d7</sys_scope>
+        <sys_update_name>sys_aw_master_config_531cd0022f412010963e4f2e2c99b6c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 03:34:14</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>needit_spoke</workspace_url>
+    </sys_aw_master_config>
+</record_update>

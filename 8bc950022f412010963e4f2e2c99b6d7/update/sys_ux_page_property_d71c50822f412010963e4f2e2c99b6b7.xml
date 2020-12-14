@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Include/exclude workspace notification</description>
+        <name>ws_active_notification</name>
+        <page display_value="NeedIt Spoke">db1cd0022f412010963e4f2e2c99b6c6</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 03:34:14</sys_created_on>
+        <sys_id>d71c50822f412010963e4f2e2c99b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_notification</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_555935_needit_sp">8bc950022f412010963e4f2e2c99b6d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">8bc950022f412010963e4f2e2c99b6d7</sys_scope>
+        <sys_update_name>sys_ux_page_property_d71c50822f412010963e4f2e2c99b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 03:34:14</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_555935_needit_sp.ws_active_notification</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d71c50822f412010963e4f2e2c99b6b7"/>
+</record_update>

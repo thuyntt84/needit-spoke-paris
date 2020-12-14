@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">f71c50822f412010963e4f2e2c99b6e6</content>
+        <content_attrs/>
+        <content_component display_value="now-uxf-viewport">3f75ec64a40f9432c9168bbda7b997de</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 03:34:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>771c50822f412010963e4f2e2c99b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_555935_needit_sp">8bc950022f412010963e4f2e2c99b6d7</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="NeedIt Spoke">8bc950022f412010963e4f2e2c99b6d7</sys_scope>
+        <sys_update_name>sys_aw_module_771c50822f412010963e4f2e2c99b6dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 03:34:16</sys_updated_on>
+        <toolbar_button display_value="Home Button">fb1c50822f412010963e4f2e2c99b6dc</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="NeedIt Spoke">531cd0022f412010963e4f2e2c99b6c5</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=771c50822f412010963e4f2e2c99b6dc"/>
+</record_update>
